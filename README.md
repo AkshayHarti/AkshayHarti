@@ -1,4 +1,4 @@
-### This is my bio
+#### I am a JavaScript Full Stack Developer
 
 <!--
 **AkshayHarti/AkshayHarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
